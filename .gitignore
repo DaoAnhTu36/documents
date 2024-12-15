@@ -8,3 +8,4 @@ Utilities/Utilities/bin/Debug/netstandard2.1/Utilities.pdb
 Utilities/Utilities/obj/project.assets.json
 Utilities/Utilities/obj/project.nuget.cache
 Utilities/Utilities/obj/
+*.vsidx
